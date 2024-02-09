@@ -1,0 +1,20 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "portafilio web",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portafolio",
+    "web",
+    "projects"
+  ],
+  "author": "Cristian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
